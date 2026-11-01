@@ -1,0 +1,16 @@
+# dados locais do Jarvis: ficam no seu computador, nunca no GitHub
+memoria/
+cerebro/
+kokoro-onnx/
+*.parcial
+instalacao.log
+iniciar-jarvis.bat
+
+# Python
+__pycache__/
+*.pyc
+
+# sistema
+.DS_Store
+Thumbs.db
+desktop.ini
